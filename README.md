@@ -1,5 +1,5 @@
 # node-project-lab
-A workspace for in depth learning of Node concepts
+A workspace for in-depth learning of Node concepts
 
 ## Engineering Principles
 
