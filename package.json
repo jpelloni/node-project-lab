@@ -1,0 +1,23 @@
+{
+  "name": "node-project-lab",
+  "version": "0.1.0",
+  "description": "A workspace for in depth learning of Node concepts",
+  "homepage": "https://github.com/jpelloni/node-project-lab#readme",
+  "bugs": {
+    "url": "https://github.com/jpelloni/node-project-lab/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpelloni/node-project-lab.git"
+  },
+  "license": "MIT",
+  "author": "jpelloni",
+  "type": "commonjs",
+  "main": "src/index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
