@@ -6,5 +6,5 @@
  1. <u>What are examples of APIs that exist because Node provides them, not because JavaScript defines them?</u> process, console, Buffer, http
  1. <u>What information from process do you think would be most useful in a production application, and why?</u>
     - argv so you can see what arguments were passed to Node. 
-    - pid, to monitor the process from the OS task manager. 
+    - pid, so logs and monitoring tools can correlate the running Node process with the operating system process.
     - cwd(), to see where Node process started from

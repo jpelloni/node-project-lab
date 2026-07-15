@@ -1,0 +1,9 @@
+- **Current Working Directory**: The filesystem folder from which the process was started.
+- **Event Loop**: The loop that waits for and processes asynchronous events and callbacks.
+- **Host API**: The extra, non-JavaScript functions provided by the runtime to interact with the system.
+- **libuv**: A library Node uses to handle files, network I/O, and other OS features consistently.
+- **Node.js**: A platform for running JavaScript outside the browser, built on V8 and system APIs.
+- **Runtime**: The environment where code runs, including the engine, APIs, and system services.
+- **process.cwd()**: A function that returns the current working directory of the running process.
+- **V8**: The JavaScript engine that compiles and executes JS code.nt script file.
+- **__dirname**: A variable that gives the directory path of the curre
