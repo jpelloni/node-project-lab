@@ -5,9 +5,12 @@
     The answer is no.
     When someone installs a library from the npm registry, npm uses the library's `package.json`, not its `package-lock.json`, to resolve dependencies.
     <u>That means your lock file doesn't control what your users receive.</u>
+1. Don't think of `await` as "**pause**."  
+    Think of it as:  
+        "**Suspend this function, let the Event Loop do other work, and resume me when the Promise settles.**"
 
 ## `package.json` vs `package-lock.json`
 `package.json` describes acceptable dependency versions.  
 `package-lock.json` records the exact resolved dependency tree for reproducible installs.  
 Applications benefit greatly from committing `package-lock.json`.  
-<u>Libraries are often tested across version ranges rather than a single locked dependency tree.</u>
+<u>Libraries are often tested across version ranges rather than a single locked dependency tree.</u>  
