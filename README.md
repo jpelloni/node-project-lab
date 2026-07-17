@@ -16,3 +16,5 @@ A workspace for in-depth learning of Node concepts
 - Journals
     - [lesson 1](journal/semester-1/lesson-1.md)
     - [lesson 2](journal/semester-1/lesson-2.md)
+    - [lesson 3](journal/semester-1/lesson-3.md)
+    - [lesson 4](journal/semester-1/lesson-4.md)
