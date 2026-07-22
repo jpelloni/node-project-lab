@@ -19,3 +19,4 @@ A workspace for in-depth learning of Node concepts
     - [Modules, `require()`, `import`, and the Node Module System](journal/semester-1/lesson-3.md)
     - [The Event Loop, Concurrency, and Asynchronous I/O](journal/semester-1/lesson-4.md)
     - [Errors, Exceptions, and Asynchronous Error Handling](journal/semester-1/lesson-5.md)
+    - [Streams, Buffers, and Backpressure](journal/semester-1/lesson-5.md)
