@@ -21,3 +21,4 @@ A workspace for in-depth learning of Node concepts
     - [Errors, Exceptions, and Asynchronous Error Handling](journal/semester-1/lesson-5.md)
     - [Streams, Buffers, and Backpressure](journal/semester-1/lesson-6.md)
     - [Processes, Child Processes, and Worker Threads](journal/semester-1/lesson-7.md)
+    - [Environment Variables, Configuration, and Secrets](journal/semester-1/lesson-8.md)
