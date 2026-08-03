@@ -24,3 +24,4 @@ A workspace for in-depth learning of Node concepts
     - [Environment Variables, Configuration, and Secrets](journal/semester-1/lesson-8.md)
     - [npm Packages, Semantic Versioning, and Publishing](journal/semester-1/lesson-9.md)
     - [Observability, Logging, and Diagnostics](journal/semester-1/lesson-10.md)
+    - [Performance, Profiling, and Memory](journal/semester-1/lesson-11.md)
