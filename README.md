@@ -44,11 +44,11 @@ Focus:
 - Engineering discipline
 
 <details>
-<summary>Lesson Journals</summary>
+<summary>Lessons</summary>
 
 ### Understanding the Runtime
 
-- [Lesson 1 — Understanding the Node Runtime](journal/semester-1/lesson-1.md)
+- [Lesson 1 — Understanding the Node Runtime](semesters/semester-1/lesson-1/lesson-01-node-runtime.md)
 - [Lesson 2 — npm, package.json, and Dependency Resolution](journal/semester-1/lesson-2.md)
 - [Lesson 3 — Modules, `require()`, `import`, and the Node Module System](journal/semester-1/lesson-3.md)
 - [Lesson 4 — The Event Loop, Concurrency, and Asynchronous I/O](journal/semester-1/lesson-4.md)
