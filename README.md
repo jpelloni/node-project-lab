@@ -28,3 +28,5 @@ A workspace for in-depth learning of Node concepts
     - [Debugging Like a Systems Engineer](journal/semester-1/lesson-12.md)
     - [Dependencies, Technical Debt, and Build vs Buy](journal/semester-1/lesson-13.md)
     - [Testing as an Engineering Discipline](journal/semester-1/lesson-14.md)
+    - [Production Readiness](journal/semester-1/lesson-15.md)
+    - [Capstone — Thinking Like a Senior Node Engineer](journal/semester-1/lesson-16.md)
