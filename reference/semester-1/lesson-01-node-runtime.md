@@ -137,9 +137,9 @@ Providing a cross-platform abstraction for asynchronous I/O, networking, timers,
 
 ## Related Lessons
 
-- Lesson 4 — The Event Loop
-- Lesson 6 — Streams and Buffers
-- Lesson 7 — Processes and Worker Threads
+- [Lesson 4 — The Event Loop](./lesson-04-event-loop.md)
+- [Lesson 6 — Streams and Buffers](./lesson-06-streams.md)
+- [Lesson 7 — Processes and Worker Threads](./lesson-07-processes.md)
 
 ## Jason's Notes
 
